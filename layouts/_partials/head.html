@@ -1,0 +1,2 @@
+{{ $pico := resources.Get "pico.violet.css" | minify | fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $pico.RelPermalink }}" integrity="{{ $pico.Data.Integrity }}"/>
