@@ -70,5 +70,8 @@ The free/publicly available version is missing the following:
 	- Sunder Strike
 - **Talents with a level requirement of 3 or more**
 	- Adaptive Bond, Adept Multiclass, Big Game Hunter, Bountiful Blessings, Champion's Resolve, Coordinated Command, Crowned Sigil, Disciplined Combatant, Divine Cleanse, Expanded Repertoire, Expert Multiclass, Font of Magic, Greater Innate Power, Helping Hands, Internal Damage, M, Nature's Vortex, Overly Prepared Spellcaster, Pack Leader, Pact Bane, Seize Momentum, Sinister Shot, Sling-blade, Steel Fist, Unfathomable Strength, Unseen Ambusher, Warlock Subcontract, Wild Form Expansionaster Multiclass
+- **Level 3+ Class Features**
+- **Subclasses**
 - **Monsters**
 - **Magazine Content** (This will be locked behind their respective magazines)
+- **Input JSON Data**
