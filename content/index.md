@@ -65,10 +65,10 @@ Yes, Alan (AKA the Dungeon Coach) has graciously permitted us to share the playe
 ## What is the difference between the locked and unlocked versions?
 The free/publicly available version is missing the following:
 - **Spells with a base MP cost of 2 or more**
-	-  Banish, Gravity Shift, Increase Gravity, Time Stop, Confusion, Slumber, Revivify, Disintegrating Beam, Disintegrate
+	- Banish, Confusion, Disintegrating Beam, Disintegrate, Gravity Shift, Increase Gravity, Revivify, Slumber, Time Stop
 - **Maneuvers with a base SP cost of 2 or more**
 	- Sunder Strike
 - **Talents with a level requirement of 3 or more**
-	- Unfathomable Strength, Expanded Repertoire, Helping Hands, Champion's Resolve, Disciplined Combatant, Bountiful Blessings, Divine Cleanse, Seize Momentum, Coordinated Command, Wild Form Expansion, Nature's Vortex, Pack Leader, Big Game Hunter, Internal Damage, Steel Fist, Unseen Ambusher, Sinister Shot, Greater Innate Power, Font of Magic, Sling-blade, Adaptive Bond, Pact Bane, Warlock Subcontract, Crowned Sigil, Overly Prepared Spellcaster, Adept Multiclass, Expert Multiclass, Master Multiclass
+	- Adaptive Bond, Adept Multiclass, Big Game Hunter, Bountiful Blessings, Champion's Resolve, Coordinated Command, Crowned Sigil, Disciplined Combatant, Divine Cleanse, Expanded Repertoire, Expert Multiclass, Font of Magic, Greater Innate Power, Helping Hands, Internal Damage, M, Nature's Vortex, Overly Prepared Spellcaster, Pack Leader, Pact Bane, Seize Momentum, Sinister Shot, Sling-blade, Steel Fist, Unfathomable Strength, Unseen Ambusher, Warlock Subcontract, Wild Form Expansionaster Multiclass
 - **Monsters**
 - **Magazine Content** (This will be locked behind their respective magazines)
