@@ -1,2 +1,5 @@
-{{ $pico := resources.Get "pico.violet.css" | minify | fingerprint "sha256" }}
-<link rel="stylesheet" href="{{ $pico.RelPermalink }}" integrity="{{ $pico.Data.Integrity }}"/>
+
+{{ range resources.Match "css/*.css" }}
+  {{ $css := . | minify | fingerprint "sha256" }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}"/>
+{{ end }}
