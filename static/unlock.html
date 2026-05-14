@@ -81,6 +81,15 @@
   <h1>AES-GCM File Encryptor / Decryptor</h1>
 
   <div class="card">
+    <h2>How to operate</h2>
+    <ol>
+      <li>Place the PDF into the "<i>Password or Key File</i>" slot. (make sure you are using the correct version)</li>
+      <li>Get en encripted <code>.zip.aesgcm</code> file (Use the <a href="/output/index.html">Output Listing</a> to either download it or copy the url)</li>
+      <li>Place the encripted <code>.zip.aesgcm</code> file into the "<i>Data File or URL</i>" slot</li>
+    </ol>
+  </div>
+
+  <div class="card">
     <h2>Password or Key File</h2>
     <div class="toggle-container" id="passwordToggle">
       <div class="toggle-btn" data-mode="password">Password</div>
@@ -127,12 +136,6 @@
   </div>
 
   <div id="status" class="status" style="display:none;"></div>
-
-  <div>
-    <h2>How to operate</h2>
-    Place the PDF into the keyfile slot. (make sure you are using the correct version)<br/>
-    Place the encripted .zip.aesgcm file into the local file slot<br/>
-  </div>
 
   <script>
     // Toggle handlers
