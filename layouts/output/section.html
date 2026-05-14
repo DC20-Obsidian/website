@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{ .Content }}
+<ul>
+  {{ range resources.Match "output/*.zip" }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title | path.Base }}</a></li>
+  {{ end }}
+  {{ range resources.Match "output/*.zip.aesgcm" }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title | path.Base }}</a></li>
+  {{ end }}
+</ul>
+{{ end }}
