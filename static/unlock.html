@@ -174,7 +174,7 @@
         const file = document.getElementById('keyFile').files[0];
         if (!file) throw new Error("Key file is required");
         const buf = await file.arrayBuffer();
-        return new Uint8Array(buf);
+        return crypto.subtle.digest("SHA-256", buf);
       }
     }
 
