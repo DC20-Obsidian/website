@@ -15,7 +15,7 @@
 This is a script to convert the DC20 TTRPG PDF into JSON and Obsidian flavored markdown.
 
 ## How do I access the output?
-Use the website to unlock and download the zip archive. [website](https://dc20obsidain.pages.dev/) (TODO include link to website) It requires owning a copy of the PDF to unlock, so if you don't own a copy, go ahead and buy one [here](https://thedungeoncoach.com/products/dc20-core-rules).
+Use the website to unlock and download the zip archive. ([Output](/output)) ([Unlock Tool](/unlock.html)) It requires owning a copy of the PDF to unlock, so if you don't own a copy, go ahead and buy one [here](https://thedungeoncoach.com/products/dc20-core-rules).
 
 ## Is there a free version?
 Yes, Alan (AKA the Dungeon Coach) has graciously permitted us to share the player options for levels 1-2.
