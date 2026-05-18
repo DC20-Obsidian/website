@@ -19,7 +19,12 @@ Use the website to unlock and download the zip archive. ([Output](/output)) ([Un
 
 ## Is there a free version?
 Yes, Alan (AKA the Dungeon Coach) has graciously permitted us to share the player options for levels 1-2.
-*(Note: while the code in this repository is open source, DC20, both the source PDF and the output of this script, including the free section, is proprietary. Any questions regarding this should be directed to Alan thedungeoncoach@thedungeoncoach.com, or one of his [discord moderators](https://discord.gg/8yCwh6ZVq7))*
+
+## Are there any restrictions?
+While the code in this repository is open source,
+DC20, both the source PDF and the output of this script, including the free section, is proprietary.
+**This is under the same restrictions as the orginal PDF.**
+Any questions regarding this should be directed to Alan thedungeoncoach@thedungeoncoach.com, or one of his [discord moderators](https://discord.gg/8yCwh6ZVq7))*
 
 ## What is the project status/roadmap?
 - [X] spells
