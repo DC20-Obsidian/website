@@ -42,10 +42,10 @@ Any questions regarding this should be directed to Alan thedungeoncoach@thedunge
 	- [ ] subclasses
 - [ ] actions
 - [ ] damage types
-- [ ] attributes
+- [X] attributes
 	- [ ] saves
-	- [ ] skills
-	- [ ] trades
+	- [X] skills
+	- [X] trades
 	- [ ] languages
 - [ ] equipment
 	- [ ] weapons
